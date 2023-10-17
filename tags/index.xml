@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Maplerobot</title>
+    <link>https://www.maplerobot.ca/tags/</link>
+    <description>Recent content in Tags on Maplerobot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Apr 2023 11:25:05 -0400</lastBuildDate><atom:link href="https://www.maplerobot.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vrc</title>
+      <link>https://www.maplerobot.ca/tags/vrc/</link>
+      <pubDate>Fri, 14 Apr 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://www.maplerobot.ca/tags/vrc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wro</title>
+      <link>https://www.maplerobot.ca/tags/wro/</link>
+      <pubDate>Thu, 13 Apr 2023 11:15:58 -0400</pubDate>
+      
+      <guid>https://www.maplerobot.ca/tags/wro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
